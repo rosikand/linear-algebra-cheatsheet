@@ -1,1 +1,1 @@
-See http://rosikand.github.io/linear-algebra-cheatsheet
+See http://rosikand.github.io/linear-algebra-cheatsheet.html or http://rosikand.github.io/linear-algebra-cheatsheet.pdf
