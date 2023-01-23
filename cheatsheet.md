@@ -42,7 +42,7 @@ format:
 	- Aside: Lagrange multipliers (constrained optimization) 
 	- Calculus with vectors and matrices 
 		- Gradient, Jacobian, Hessian, chain rule   
-	- Basics of convex optimization 
+	- Basics of convex functions and optimization 
 	- Momentum 
 	- Extra: 
 		- [Gauss-Newton method](http://ee263.stanford.edu/lectures/gauss_newton.pdf)
